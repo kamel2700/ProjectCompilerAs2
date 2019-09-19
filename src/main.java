@@ -16,6 +16,6 @@ public class main {
         }
         fr.close();
         System.out.println(stringCode);
-        //hi
+        System.out.println("hello");
     }
 }
