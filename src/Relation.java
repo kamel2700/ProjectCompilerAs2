@@ -1,2 +1,2 @@
-public class Relation {
+public class Relation extends Binary {
 }

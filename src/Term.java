@@ -1,2 +1,2 @@
-public class Term {
+public class Term extends Binary {
 }

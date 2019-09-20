@@ -1,2 +1,2 @@
-public class Binary {
+public class Binary extends Expression {
 }

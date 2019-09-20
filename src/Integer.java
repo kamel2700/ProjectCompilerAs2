@@ -1,2 +1,2 @@
-public class Integer {
+public class Integer extends Primary {
 }

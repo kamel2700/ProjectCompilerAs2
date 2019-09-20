@@ -1,2 +1,2 @@
-public class Primary {
+public class Primary extends Expression{
 }

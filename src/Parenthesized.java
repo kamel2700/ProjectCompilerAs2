@@ -1,2 +1,2 @@
-public class Parenthesized {
+public class Parenthesized extends Primary {
 }
